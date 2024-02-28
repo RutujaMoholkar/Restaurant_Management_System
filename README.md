@@ -61,7 +61,7 @@ Access the Application:
 Open your web browser and navigate to http://localhost:7000.
 
 ## Usage
-+ Upon launching the application, log in as an administrator or staff member.
++ Upon launching the application, log in as an administrator or user.
 + Navigate through the different sections of the application to manage orders, manage category, view bill and manage usersof different sections.
 + Refer to the user manual or help documentation for detailed usage instructions.
 
