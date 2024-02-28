@@ -58,7 +58,7 @@ bash
 Copy code
 java -jar target/cafe-management-system.jar
 Access the Application:
-Open your web browser and navigate to http://localhost:8080.
+Open your web browser and navigate to http://localhost:7000.
 
 ## Usage
 + Upon launching the application, log in as an administrator or staff member.
