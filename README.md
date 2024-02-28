@@ -3,8 +3,8 @@ The Restaurant Management System is a comprehensive solution designed to streaml
 
 ## Table of Contents
 + Introduction
-+ Features
 + Tables
++ Application programming interface (Api)
 + Technologies Used
 + Setup Instructions
 + Usage
@@ -14,7 +14,7 @@ The Restaurant Management System is a comprehensive solution designed to streaml
 ## Introduction
 Managing a restaurant involves juggling multiple tasks efficiently to ensure smooth operations and excellent customer service. The Restaurant Management System simplifies these tasks by providing a centralized platform to monitor and control various aspects of restaurant management.
 
-## Features:
+<!---## Features:
 _Order Management_
 + Create, view, modify, and fulfill customer orders.
 + Customize orders based on customer preferences.
@@ -24,19 +24,22 @@ _Menu Management_
 + Categorize menu items for easy navigation.
   
 _Billing_
-+ Generate bill
++ Generate bill>-->
 
 ## Tables:
 + user
++ 
+
+## Application programming interface:
++ /signup
 
 ## Technologies Used: 
 + Java
 + Spring Boot
 + Spring MVC
 + Spring Data JPA
-+ Thymeleaf (for templating)
 + MySQL (or any other preferred database)
-+ HTML/CSS/JavaScript (for frontend)
++ Angular (for frontend)
 
 ## Setup Instructions: 
 Clone the Repository:
